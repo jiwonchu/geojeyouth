@@ -166,10 +166,6 @@ body {
   transform: rotate(90deg);
 }
 
-.wrap {
-  padding-top: 80px;
-}
-
 /* 더보기 메뉴 */
 .more-wrap {
   position: fixed;
